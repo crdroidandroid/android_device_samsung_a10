@@ -1,2 +1,0 @@
-r_file_recursive(hal_samsung_battery_default, sysfs_battery)
-rw_file_recursive(hal_samsung_battery_default, sysfs_battery_writable)

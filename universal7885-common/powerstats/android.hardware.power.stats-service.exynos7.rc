@@ -1,4 +1,0 @@
-service vendor.power.stats-hal /vendor/bin/hw/android.hardware.power.stats-service.exynos7
-    class hal
-    user system
-    group system

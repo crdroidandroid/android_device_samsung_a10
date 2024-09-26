@@ -1,7 +1,0 @@
-# /dev/m2m1shot_scaler0
-type m2m1shot_device, dev_type;
-# gps
-type gps_device, dev_type;
-
-# /dev/goodix_fp, /dev/egis0
-type drm_device, dev_type;

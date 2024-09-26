@@ -1,2 +1,0 @@
-allow hal_power_stats_default sysfs_devfreq:file r_file_perms;
-allow hal_power_stats_default sysfs_devfreq:dir search;

@@ -1,3 +1,0 @@
-allow netd self:capability sys_module;
-allow netd init:tcp_socket rw_socket_perms_no_ioctl;
-

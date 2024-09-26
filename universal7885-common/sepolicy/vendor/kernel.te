@@ -1,8 +1,0 @@
-allow kernel device:chr_file { getattr setattr unlink create };
-allow kernel device:dir create_dir_perms;
-allow kernel self:capability { sys_rawio mknod };
-allow kernel block_device:dir search;
-
-# Hall IC
-allow kernel sysfs_sec_key:dir search;
-allow kernel sysfs_sec_key:file { open read };
